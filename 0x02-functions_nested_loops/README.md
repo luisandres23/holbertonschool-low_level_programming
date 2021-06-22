@@ -1,0 +1,1 @@
+en este nuevo proyecto se realizaran los trabajos de 0x02. C - Functions, nested loops by luis andres orozco ardila 
