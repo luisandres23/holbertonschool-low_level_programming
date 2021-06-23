@@ -6,16 +6,16 @@
  */
 int main(void)
 {
-char h[] = "Holberton";
-int s = sizeof(h);
-int i;
+  char h[] = "Holberton";
+  int s = sizeof(h);
+  int i;
 
-for (i = 0; i < s; i++)
-{
-_putchar(h[i]);
+  for (i = 0; i < s; i++)
+    {
+      _putchar(h[i]);
 
-}
+    }
 
- _putchar('\n');
-return (0);
+  _putchar('\n');
+  return (0);
 }
